@@ -1,0 +1,8 @@
+MAS ruedaRepuesto {
+
+    environment: example.Env(10)
+
+    agents: rueda_repuesto_graphplan;
+
+    aslSourcePath: "src/agt";
+}
